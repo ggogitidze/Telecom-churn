@@ -1,5 +1,7 @@
 # Telecom Customer Churn Analysis
 
+> **NOTE:** Interactive Visualizations can be accessed on my [Tableau Page](https://public.tableau.com/app/profile/giorgi.gogitidze/vizzes). 
+
 ## Project Overview
 
 As part of our effort to understand and reduce customer churn, we have conducted an in-depth analysis of customer behavior and service usage patterns using the [`telecom_churn.csv`](https://www.kaggle.com/datasets/barun2104/telecom-churn/data) dataset. This analysis aims to identify key factors correlated with customer churn, understand how usage patterns and service interactions influence churn, and identify high-risk customer segments for targeted marketing and retention strategies.
